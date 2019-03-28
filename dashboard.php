@@ -72,7 +72,7 @@ else{
 
             <div class="carousel-inner">
               <div class="item active">
-                <img src="images/1.jpg" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
+                <img src="images/1.JPG" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
                 <div class="carousel-caption">
                 <div class="form-group">
                   <form method="post" action="./inProcess.php">
@@ -89,7 +89,7 @@ else{
                 </div>
               </div>
               <div class="item">
-                <img src="images/2.jpg" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
+                <img src="images/2.JPG" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
                 <div class="carousel-caption">
                 <div class="form-group">
                   <form method="post" action="./inProcess.php">
@@ -106,7 +106,7 @@ else{
                 </div>
               </div>
               <div class="item">
-                <img src="images/3.jpg" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
+                <img src="images/3.JPG" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
                 <div class="carousel-caption">
                 <div class="form-group">
                   <form method="post" action="./inProcess.php">
@@ -123,7 +123,7 @@ else{
                 </div>
               </div>
               <div class="item">
-                <img src="images/4.jpg" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
+                <img src="images/4.JPG" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
                 <div class="carousel-caption">
                 <div class="form-group">
                   <form method="post" action="./inProcess.php">
@@ -140,7 +140,7 @@ else{
                 </div>
               </div>
               <div class="item">
-                <img src="images/5.jpg" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
+                <img src="images/5.JPG" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
                 <div class="carousel-caption">
                 <div class="form-group">
                   <form method="post" action="./inProcess.php">
@@ -157,7 +157,7 @@ else{
                 </div>
               </div>
               <div class="item">
-                <img src="images/6.jpg" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
+                <img src="images/6.JPG" class="img-responsive" alt="" style="width:100%; height: 600px !important;">
                 <div class="carousel-caption">
                 <div class="form-group">
                   <form method="post" action="./inProcess.php">
